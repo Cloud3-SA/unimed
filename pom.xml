@@ -47,5 +47,6 @@
                 </executions>
             </plugin>
         </plugins>
+	<finalName>unimed-devsecops</finalName>
     </build>
 </project>
